@@ -1,12 +1,262 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\data\\entities\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\data\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\data\\entities\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\cinemaappdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\data\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\migrations\\20251007204449_migr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/kelwoi_sqlexpress/CinemaWebDb/True/SqlTable/dbo.Films.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\data\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T20:31:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T20:28:28.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:10:28.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Ticket.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:10:13.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Hall.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\Hall.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Hall.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\Hall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:09:20.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CinemaAppDb",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\CinemaAppDb.csproj",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\CinemaAppDb.csproj",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\CinemaAppDb.csproj",
+              "RelativeToolTip": "..\\CinemaAppDb\\CinemaAppDb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T18:26:35.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\CinemaDbContext.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\CinemaDbContext.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\CinemaDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:17:54.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "Controllers\\FilmController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:13:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:20:35.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Film.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\Film.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Film.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:15:28.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251007204449_migr.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Migrations\\20251007204449_migr.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Migrations\\20251007204449_migr.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Migrations\\20251007204449_migr.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Migrations\\20251007204449_migr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:44:49.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Films [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/kelwoi_sqlexpress/CinemaWebDb/True/SqlTable/dbo.Films.sql",
+              "ToolTip": "dbo.Films [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-07T20:07:38.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\Session.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Session.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:08:47.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:25:22.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cinema.csproj",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Cinema.csproj",
+              "RelativeDocumentMoniker": "Cinema.csproj",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Cinema.csproj",
+              "RelativeToolTip": "Cinema.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T22:11:47.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,15 @@
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.csproj.AssemblyReference.cache
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.AssemblyInfoInputs.cache
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.AssemblyInfo.cs
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.csproj.CoreCompileInputs.cache
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.sourcelink.json
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\bin\Debug\net8.0\CinemaAppDb.deps.json
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\bin\Debug\net8.0\CinemaAppDb.runtimeconfig.json
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\bin\Debug\net8.0\CinemaAppDb.dll
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\bin\Debug\net8.0\CinemaAppDb.pdb
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.dll
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\refint\CinemaAppDb.dll
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.pdb
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\CinemaAppDb.genruntimeconfig.cache
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\CinemaAppDb\obj\Debug\net8.0\ref\CinemaAppDb.dll
