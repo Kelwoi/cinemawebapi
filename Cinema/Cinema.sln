@@ -4,8 +4,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema.csproj", "{5040867D-8327-4E7F-98F7-B137FD978A10}"
+	ProjectSection(ProjectDependencies) = postProject
+		{80EC7870-3570-4399-8114-A781D33AC6CE} = {80EC7870-3570-4399-8114-A781D33AC6CE}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAppDb", "..\CinemaAppDb\CinemaAppDb.csproj", "{3B26283B-6646-4017-8094-DD863C696A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "..\BusinessLogic\BusinessLogic.csproj", "{80EC7870-3570-4399-8114-A781D33AC6CE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B26283B-6646-4017-8094-DD863C696A88} = {3B26283B-6646-4017-8094-DD863C696A88}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,10 @@ Global
 		{3B26283B-6646-4017-8094-DD863C696A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B26283B-6646-4017-8094-DD863C696A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B26283B-6646-4017-8094-DD863C696A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EC7870-3570-4399-8114-A781D33AC6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EC7870-3570-4399-8114-A781D33AC6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EC7870-3570-4399-8114-A781D33AC6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EC7870-3570-4399-8114-A781D33AC6CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,7 +12,7 @@ namespace CinemaAppDb.Data.Entities
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int id { get; set; }
+        public int Id { get; set; }
         public string title { get; set; }
         public string description { get; set; }
         public int release_year { get; set; }

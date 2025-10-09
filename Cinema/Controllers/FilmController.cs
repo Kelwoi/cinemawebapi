@@ -1,19 +1,25 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using CinemaAppDb.Data;
 using CinemaAppDb.Data.Entities;
+using BusinessLogic;
+using BusinessLogic.Dtos;
+using BusinessLogic.Services;
+using BusinessLogic.Interfaces;
 
 
 namespace Cinema.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class FilmController : Controller
+    public class FilmController : ControllerBase
     {
         private readonly CinemaDbContext ctx;
+        private readonly IFilmsService Filmservices;
 
-        public FilmController(CinemaDbContext ctx)
+        public FilmController(CinemaDbContext ctx, IFilmsService filmsService)
         {
             this.ctx = ctx;
+            this.Filmservices = filmsService;
         }
         [HttpGet("all")]
         public IActionResult GetAll()
@@ -36,17 +42,19 @@ namespace Cinema.Controllers
             return Ok(item);
         }
         [HttpPost]
-        public IActionResult Create(Film model)
+        public IActionResult Create([FromBody] CreateFilmDTO model)
         {
             if (!ModelState.IsValid)
                 return BadRequest(GetErrorMessages());
 
-            model.id = 0;
+            var result = Filmservices.Create(model);
 
-            ctx.Films.Add(model);
-            ctx.SaveChanges();
-
-            return CreatedAtAction(nameof(Get), new { Id = model.id }, model);
+            // 201
+            return CreatedAtAction(
+                nameof(Get),            // The action to get a single product
+                new { id = result.Id }, // Route values for that action
+                result                  // Response body
+            );
         }
 
         private IEnumerable<string> GetErrorMessages()

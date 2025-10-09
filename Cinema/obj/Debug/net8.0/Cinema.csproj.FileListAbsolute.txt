@@ -202,3 +202,9 @@ C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\obj\Debug\net8.0\refint\Cinema
 C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\obj\Debug\net8.0\Cinema.pdb
 C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\obj\Debug\net8.0\Cinema.genruntimeconfig.cache
 C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\obj\Debug\net8.0\ref\Cinema.dll
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Vovka\Desktop\asp_net_webapi_proj\Cinema\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
