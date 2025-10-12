@@ -77,5 +77,23 @@ namespace Cinema.Controllers
 
             return NoContent();
         }
+        [HttpGet("filter")]
+        public async Task<IActionResult> GetFilteredSessions(
+    [FromQuery] int? movieId,
+    [FromQuery] int? hallId,
+    [FromQuery] DateTime? startAfter,
+    [FromQuery] DateTime? startBefore)
+        {
+            var filter = new SessionFilterDTO
+            {
+                MovieId = movieId,
+                HallId = hallId,
+                StartAfter = startAfter,
+                StartBefore = startBefore
+            };
+
+            var result = await _sessionService.GetFilteredSessionsAsync(filter);
+            return Ok(result);
+        }
     }
 }

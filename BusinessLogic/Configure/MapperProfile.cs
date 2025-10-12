@@ -18,6 +18,8 @@ namespace BusinessLogic.Configure
 
             CreateMap<CreateFilmDTO, Film>();
             CreateMap<Film, FilmDTO>();
+            CreateMap<CreateHallDTO, Hall>();
+            CreateMap<Hall, HallDTO>();
         }
 
     }

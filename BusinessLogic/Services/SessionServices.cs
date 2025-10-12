@@ -97,5 +97,28 @@ namespace BusinessLogic.Services
 
             return _mapper.Map<SessionDTO>(session);
         }
+        public async Task<IEnumerable<SessionDTO>> GetFilteredSessionsAsync(SessionFilterDTO filter)
+        {
+            var query = _context.Sessions
+                .Include(s => s.Movie)
+                .Include(s => s.Hall)
+                .AsQueryable();
+
+            if (filter.MovieId.HasValue)
+                query = query.Where(s => s.MovieId == filter.MovieId);
+
+            if (filter.HallId.HasValue)
+                query = query.Where(s => s.HallId == filter.HallId);
+
+            if (filter.StartAfter.HasValue)
+                query = query.Where(s => s.StartTime >= filter.StartAfter);
+
+            if (filter.StartBefore.HasValue)
+                query = query.Where(s => s.StartTime <= filter.StartBefore);
+
+            var sessions = await query.ToListAsync();
+            return _mapper.Map<IEnumerable<SessionDTO>>(sessions);
+        }
+
     }
 }

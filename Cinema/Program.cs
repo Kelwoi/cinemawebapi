@@ -1,10 +1,10 @@
 using BusinessLogic.Configure;
-using FluentValidation;
-using FluentValidation.AspNetCore;
-
 using BusinessLogic.Interfaces;
 using BusinessLogic.Services;
+using Cinema;
 using CinemaAppDb.Data;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,12 +21,13 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddFluentValidationClientsideAdapters();
 builder.Services.AddValidatorsFromAssemblies(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddScoped<HallServices>();
 builder.Services.AddScoped<ISessionService, SessionServices>();
 builder.Services.AddScoped<IFilmsService, FilmServices>();
 
 
 var app = builder.Build();
-
+app.UseGlobalExceptionHandler();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
