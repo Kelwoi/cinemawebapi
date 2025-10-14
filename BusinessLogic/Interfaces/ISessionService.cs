@@ -15,5 +15,6 @@ namespace BusinessLogic.Interfaces
         Task<SessionDTO?> UpdateSessionAsync(int id, CreateSessionDTO dto);
         Task<bool> DeleteSessionAsync(int id);
         Task<IEnumerable<SessionDTO>> GetFilteredSessionsAsync(SessionFilterDTO filter);
+        Task<PagedResult<SessionDTO>> GetPagedSessionsAsync(int pageNumber, int pageSize);
     }
 }

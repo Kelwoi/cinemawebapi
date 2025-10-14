@@ -229,5 +229,26 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cinema.Controllers.SessionsController",
+    "Method": "GetPagedSessions",
+    "RelativePath": "api/Sessions/paged",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

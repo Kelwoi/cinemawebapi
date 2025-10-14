@@ -119,6 +119,28 @@ namespace BusinessLogic.Services
             var sessions = await query.ToListAsync();
             return _mapper.Map<IEnumerable<SessionDTO>>(sessions);
         }
+        public async Task<PagedResult<SessionDTO>> GetPagedSessionsAsync(int pageNumber, int pageSize)
+        {
+            var query = _context.Sessions.AsQueryable();
+
+            var totalCount = await query.CountAsync();
+
+            var sessions = await query
+                .OrderBy(s => s.Id)
+                .Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            var sessionDtos = _mapper.Map<IEnumerable<SessionDTO>>(sessions);
+
+            return new PagedResult<SessionDTO>
+            {
+                Items = sessionDtos,
+                TotalCount = totalCount,
+                PageNumber = pageNumber,
+                PageSize = pageSize
+            };
+        }
 
     }
 }

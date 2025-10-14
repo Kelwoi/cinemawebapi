@@ -95,5 +95,19 @@ namespace Cinema.Controllers
             var result = await _sessionService.GetFilteredSessionsAsync(filter);
             return Ok(result);
         }
+    
+
+    [HttpGet("paged")]
+        public async Task<IActionResult> GetPagedSessions(
+    [FromQuery] int pageNumber = 1,
+    [FromQuery] int pageSize = 10)
+        {
+            if (pageNumber < 1 || pageSize < 1)
+                return BadRequest(new { message = "pageNumber and pageSize must be greater than zero." });
+
+            var result = await _sessionService.GetPagedSessionsAsync(pageNumber, pageSize);
+            return Ok(result);
+        }
+
     }
 }
