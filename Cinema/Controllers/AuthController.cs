@@ -25,5 +25,15 @@ namespace Cinema.Controllers
 
             return Ok(new { message = "User registered successfully." });
         }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginDTO dto)
+        {
+            var token = await _authService.LoginAsync(dto);
+            if (token == null)
+                return Unauthorized(new { message = "Invalid email or password." });
+
+            return Ok(new { token });
+        }
     }
 }

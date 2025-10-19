@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,17 +19,32 @@
       "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{80EC7870-3570-4399-8114-A781D33AC6CE}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\businesslogic\\services\\sessionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\cinema.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:cinema.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EC7870-3570-4399-8114-A781D33AC6CE}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\businesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EC7870-3570-4399-8114-A781D33AC6CE}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\businesslogic\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80EC7870-3570-4399-8114-A781D33AC6CE}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\businesslogic\\services\\sessionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80EC7870-3570-4399-8114-A781D33AC6CE}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\businesslogic\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80EC7870-3570-4399-8114-A781D33AC6CE}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\businesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80EC7870-3570-4399-8114-A781D33AC6CE}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\businesslogic\\services\\filmservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -105,22 +128,10 @@
       "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\data\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B26283B-6646-4017-8094-DD863C696A88}|..\\CinemaAppDb\\CinemaAppDb.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinemaappdb\\migrations\\20251007204449_migr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/kelwoi_sqlexpress/CinemaWebDb/True/SqlTable/dbo.Films.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|c:\\users\\vovka\\desktop\\asp_net_webapi_proj\\cinema\\cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5040867D-8327-4E7F-98F7-B137FD978A10}|Cinema.csproj|solutionrelative:cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,113 +141,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:40:23.318Z",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T14:18:58.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Cinema.http",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Cinema.http",
+              "RelativeDocumentMoniker": "Cinema.http",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Cinema.http",
+              "RelativeToolTip": "Cinema.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-19T14:18:41.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\LoginDTO.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Dtos\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:15:00.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Services\\AuthService.cs",
               "RelativeToolTip": "..\\BusinessLogic\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T13:34:38.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\RegisterDTO.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Dtos\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABcAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:33:58.331Z",
+              "WhenOpened": "2025-10-07T20:10:28.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Cinema.csproj",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Cinema.csproj",
+              "RelativeDocumentMoniker": "Cinema.csproj",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Cinema.csproj",
+              "RelativeToolTip": "Cinema.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T22:11:47.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SessionServices.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Services\\SessionServices.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\SessionServices.cs",
               "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Services\\SessionServices.cs",
               "RelativeToolTip": "..\\BusinessLogic\\Services\\SessionServices.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAgwHkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwHkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T14:26:03.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SessionsController.cs",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\SessionsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SessionsController.cs",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\SessionsController.cs",
-              "RelativeToolTip": "Controllers\\SessionsController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGEAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T14:09:16.778Z",
+              "WhenOpened": "2025-10-19T13:40:23.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "..\\CinemaAppDb\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T22:20:35.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ISessionService.cs",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Interfaces\\ISessionService.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\ISessionService.cs",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Interfaces\\ISessionService.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\ISessionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T14:30:56.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CinemaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\CinemaDbContext.cs",
-              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\CinemaDbContext.cs",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\CinemaDbContext.cs",
-              "RelativeToolTip": "..\\CinemaAppDb\\Data\\CinemaDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T22:17:54.864Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T20:28:28.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T20:31:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\User.cs",
               "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\User.cs",
@@ -249,20 +288,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAEEAAABCAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\CinemaDbContext.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\CinemaDbContext.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\CinemaDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T20:10:28.507Z",
+              "WhenOpened": "2025-10-05T22:17:54.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Interfaces\\ISessionService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\ISessionService.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Interfaces\\ISessionService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:30:56.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "..\\CinemaAppDb\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:20:35.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionsController.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "Controllers\\SessionsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:09:16.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\RegisterDTO.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Dtos\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:33:58.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HallServices.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Services\\HallServices.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\HallServices.cs",
@@ -275,32 +366,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "FilmServices.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Services\\FilmServices.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\FilmServices.cs",
               "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Services\\FilmServices.cs",
               "RelativeToolTip": "..\\BusinessLogic\\Services\\FilmServices.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T21:39:48.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "ExceptionHandlingMiddleware.cs",
               "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T20:45:34.236Z"
+              "WhenOpened": "2025-10-12T20:45:34.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "SessionFilterDTO.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\SessionFilterDTO.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\SessionFilterDTO.cs",
@@ -308,11 +400,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Dtos\\SessionFilterDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:05:57.012Z"
+              "WhenOpened": "2025-10-12T21:05:57.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "HallDTO.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\HallDTO.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\HallDTO.cs",
@@ -320,11 +413,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Dtos\\HallDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:09:35.358Z"
+              "WhenOpened": "2025-10-12T21:09:35.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "CreateHallDTO.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\CreateHallDTO.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\CreateHallDTO.cs",
@@ -332,11 +426,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Dtos\\CreateHallDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:10:48.923Z"
+              "WhenOpened": "2025-10-12T21:10:48.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "PagedResult.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\PagedResult.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\PagedResult.cs",
@@ -344,11 +439,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Dtos\\PagedResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:44:15.974Z"
+              "WhenOpened": "2025-10-14T09:44:15.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "HallsController.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\HallsController.cs",
               "RelativeDocumentMoniker": "Controllers\\HallsController.cs",
@@ -356,11 +452,12 @@
               "RelativeToolTip": "Controllers\\HallsController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:12:10.896Z"
+              "WhenOpened": "2025-10-12T21:12:10.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "IFilmsService.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Interfaces\\IFilmsService.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IFilmsService.cs",
@@ -368,11 +465,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IFilmsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T13:40:00.351Z"
+              "WhenOpened": "2025-10-08T13:40:00.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "MapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Configure\\MapperProfile.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Configure\\MapperProfile.cs",
@@ -380,11 +478,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Configure\\MapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:52:52.367Z"
+              "WhenOpened": "2025-10-07T21:52:52.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "FilmController.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Controllers\\FilmController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmController.cs",
@@ -392,11 +491,12 @@
               "RelativeToolTip": "Controllers\\FilmController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T22:13:36.473Z"
+              "WhenOpened": "2025-10-05T22:13:36.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "CreateSessionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\CreateSessionDTO.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\CreateSessionDTO.cs",
@@ -404,11 +504,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Dtos\\CreateSessionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T14:19:49.383Z"
+              "WhenOpened": "2025-10-08T14:19:49.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Hall.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Hall.cs",
               "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\Hall.cs",
@@ -416,11 +517,12 @@
               "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\Hall.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T19:09:20.702Z"
+              "WhenOpened": "2025-10-07T19:09:20.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "SessionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\SessionDTO.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\SessionDTO.cs",
@@ -428,11 +530,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Dtos\\SessionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T14:15:42.619Z"
+              "WhenOpened": "2025-10-08T14:15:42.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Session.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Session.cs",
               "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\Session.cs",
@@ -440,11 +543,12 @@
               "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\Session.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T19:08:47.491Z"
+              "WhenOpened": "2025-10-07T19:08:47.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "FilmDTO.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\FilmDTO.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\FilmDTO.cs",
@@ -452,11 +556,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Dtos\\FilmDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:43:25.269Z"
+              "WhenOpened": "2025-10-07T21:43:25.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "CreateFilmDTOValidator.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Validators\\CreateFilmDTOValidator.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Validators\\CreateFilmDTOValidator.cs",
@@ -464,11 +569,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Validators\\CreateFilmDTOValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:29:42.891Z"
+              "WhenOpened": "2025-10-07T21:29:42.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "CreateFilmDTO.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\Dtos\\CreateFilmDTO.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\Dtos\\CreateFilmDTO.cs",
@@ -476,11 +582,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\Dtos\\CreateFilmDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:28:29.494Z"
+              "WhenOpened": "2025-10-07T21:28:29.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "CinemaAppDb.csproj",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\CinemaAppDb.csproj",
               "RelativeDocumentMoniker": "..\\CinemaAppDb\\CinemaAppDb.csproj",
@@ -488,11 +595,12 @@
               "RelativeToolTip": "..\\CinemaAppDb\\CinemaAppDb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T13:57:47.573Z"
+              "WhenOpened": "2025-10-08T13:57:47.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "BusinessLogic.csproj",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\BusinessLogic\\BusinessLogic.csproj",
               "RelativeDocumentMoniker": "..\\BusinessLogic\\BusinessLogic.csproj",
@@ -500,11 +608,12 @@
               "RelativeToolTip": "..\\BusinessLogic\\BusinessLogic.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-07T21:27:18.808Z"
+              "WhenOpened": "2025-10-07T21:27:18.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Film.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Film.cs",
               "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\Film.cs",
@@ -512,11 +621,12 @@
               "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\Film.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T22:15:28.576Z"
+              "WhenOpened": "2025-10-05T22:15:28.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Data\\Entities\\Ticket.cs",
               "RelativeDocumentMoniker": "..\\CinemaAppDb\\Data\\Entities\\Ticket.cs",
@@ -524,35 +634,12 @@
               "RelativeToolTip": "..\\CinemaAppDb\\Data\\Entities\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T19:10:13.211Z"
+              "WhenOpened": "2025-10-07T19:10:13.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-07T20:28:28.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-07T20:31:45.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "20251007204449_migr.cs",
               "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\CinemaAppDb\\Migrations\\20251007204449_migr.cs",
               "RelativeDocumentMoniker": "..\\CinemaAppDb\\Migrations\\20251007204449_migr.cs",
@@ -560,28 +647,17 @@
               "RelativeToolTip": "..\\CinemaAppDb\\Migrations\\20251007204449_migr.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T20:44:49.392Z"
+              "WhenOpened": "2025-10-07T20:44:49.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "dbo.Films.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/kelwoi_sqlexpress/CinemaWebDb/True/SqlTable/dbo.Films.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/kelwoi_sqlexpress/CinemaWebDb/True/SqlTable/dbo.Films.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-10-07T20:07:38.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Cinema.csproj",
-              "DocumentMoniker": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Cinema.csproj",
-              "RelativeDocumentMoniker": "Cinema.csproj",
-              "ToolTip": "C:\\Users\\Vovka\\Desktop\\asp_net_webapi_proj\\Cinema\\Cinema.csproj",
-              "RelativeToolTip": "Cinema.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T22:11:47.883Z"
             }
           ]
         }
