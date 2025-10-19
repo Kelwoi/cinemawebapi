@@ -11,6 +11,8 @@ namespace CinemaAppDb.Data.Entities
     {
         public DateTime? Birthdate { get; set; }
         public ICollection<Ticket> Tickets { get; set; }
+
+        public string FullName { get; set; }
         public decimal Balance { get; set; }
     }
 }
