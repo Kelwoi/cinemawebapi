@@ -1,5 +1,6 @@
 using BusinessLogic.Configure;
 using BusinessLogic.Interfaces;
+using BusinessLogic.Repositories;
 using BusinessLogic.Services;
 using Cinema;
 using CinemaAppDb.Data;
@@ -92,6 +93,7 @@ builder.Services.AddAuthentication(options =>
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
     };
 });
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 builder.Services.AddScoped<HallServices>();
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<ISessionService, SessionServices>();
@@ -129,5 +131,41 @@ async Task SeedRolesAsync(WebApplication app)
 }
 
 await SeedRolesAsync(app);
+async Task SeedRolesAndAdminAsync(WebApplication app)
+{
+    using var scope = app.Services.CreateScope();
+
+    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+    var userManager = scope.ServiceProvider.GetRequiredService<UserManager<User>>();
+
+    string[] roles = { "Admin", "User" };
+
+    foreach (var role in roles)
+    {
+        if (!await roleManager.RoleExistsAsync(role))
+            await roleManager.CreateAsync(new IdentityRole(role));
+    }
+
+    string adminEmail = "admin@cinema.com";
+    string adminPassword = "Admin123!";
+
+    var existingAdmin = await userManager.FindByEmailAsync(adminEmail);
+
+    if (existingAdmin == null)
+    {
+        var admin = new User
+        {
+            UserName = adminEmail,
+            Email = adminEmail,
+            FullName = "System Administrator",
+            EmailConfirmed = true
+        };
+
+        var result = await userManager.CreateAsync(admin, adminPassword);
+        if (result.Succeeded)
+            await userManager.AddToRoleAsync(admin, "Admin");
+    }
+}
+await SeedRolesAndAdminAsync(app);
 app.Run();
 

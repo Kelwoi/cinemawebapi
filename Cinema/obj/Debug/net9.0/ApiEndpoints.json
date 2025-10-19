@@ -117,27 +117,6 @@
   },
   {
     "ContainingType": "Cinema.Controllers.HallsController",
-    "Method": "UpdateHall",
-    "RelativePath": "api/Halls/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "dto",
-        "Type": "BusinessLogic.Dtos.CreateHallDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Cinema.Controllers.HallsController",
     "Method": "DeleteHall",
     "RelativePath": "api/Halls/{id}",
     "HttpMethod": "DELETE",

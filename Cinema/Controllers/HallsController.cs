@@ -42,15 +42,6 @@ namespace Cinema.Controllers
             return CreatedAtAction(nameof(GetHallById), new { id = hall.Id }, hall);
         }
 
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateHall(int id, [FromBody] CreateHallDTO dto)
-        {
-            var updatedHall = await _hallService.UpdateHallAsync(id, dto);
-            if (updatedHall == null)
-                return NotFound(new { message = $"Hall with id {id} not found." });
-
-            return Ok(updatedHall);
-        }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteHall(int id)
